@@ -5,7 +5,8 @@
 *.xml
 *.xsl
 *.wndpos
-**/E-Studio
+**/E-Studio.log
+E-Studio.log
 
 ## Ignore some of the directories we don't need (and their contents)
 Samples
