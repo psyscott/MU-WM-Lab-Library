@@ -1,0 +1,15 @@
+## This file indicates what files Git should ignore
+## Documentation: git-scm.com/docs/gitignore
+
+## Ignore the various output files E-Studio and E-Run create
+*.xml
+*.xsl
+*.wndpos
+
+## Ignore some of the directories we don't need (and their contents)
+Samples
+Samples/**
+Tutorials
+Tutorials/**
+
+
