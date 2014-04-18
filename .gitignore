@@ -6,10 +6,7 @@
 *.xsl
 *.wndpos
 **/E-Studio.log
-<<<<<<< HEAD
-=======
 E-Studio.log
->>>>>>> 3e3b415adc3abf1e156632bf8b81a3230920cac0
 
 ## Ignore some of the directories we don't need (and their contents)
 Samples
