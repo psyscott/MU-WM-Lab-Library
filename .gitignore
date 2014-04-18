@@ -7,6 +7,10 @@
 *.wndpos
 **/E-Studio.log
 E-Studio.log
+*.edat2
+
+## Ignore txt output files only in the Development directory
+Development/*.txt
 
 ## Ignore some of the directories we don't need (and their contents)
 Samples
