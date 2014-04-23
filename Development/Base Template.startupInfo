@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StartupInfo>
+  <StartupInfoItem itemName="Display.DefaultColor">gray</StartupInfoItem>
+  <StartupInfoItem itemName="SlideBackColor">gray</StartupInfoItem>
+  <StartupInfoItem itemName="SlideBackStyle">opaque</StartupInfoItem>
+  <StartupInfoItem itemName="SlideFrameWidth">100%</StartupInfoItem>
+  <StartupInfoItem itemName="SlideFrameHeight">100%</StartupInfoItem>
+  <StartupInfoItem itemName="FontStyle">Courier New</StartupInfoItem>
+  <StartupInfoItem itemName="FontSize">18</StartupInfoItem>
+</StartupInfo>
