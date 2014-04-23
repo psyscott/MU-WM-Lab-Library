@@ -11,4 +11,4 @@ This library will include the following:
 
 Installation:
 
-To install this library, simply click Download ZIP on the main page located on the bottom right. Unzip the file and paste the contents into your My Experiments directory (typically at C:/Users/<Your Username>/My Documents/My Experiments). Overwrite if prompted. E-Studio should automatically find the new templates. 
+To install this library, simply click Download ZIP on the main page located on the bottom right. Unzip the file and paste the contents into your My Experiments directory (typically at C:/Users/Your Username/My Documents/My Experiments). Overwrite if prompted. E-Studio should automatically find the new templates. 
